@@ -1,18 +1,12 @@
-> _Fork_ deze deeltaak en ga aan de slag. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
+# Read me
 
+## WCAG test Funda
 
-# WCAG Audit 
+Voor deze opdracht heb ik de website van funda getest. Dit is een website waarop je huizen kunt kopen en verkopen. Hieronder een afbeelding van de huidige website.
 
-Doe een WCAG test op een bestaande website en rapporteer daar over.
+![image](https://user-images.githubusercontent.com/112861166/200784922-a78577a6-1231-458e-a30d-c8166f61bb55.png)
 
-## Titel Website
-
-Welke website heb je getest? Beschrijf de website en upload een screenshot. 
-
-Toon een screenshot van het Lighthouse Accessibility test resultaat.
-
-Schrijf een een samenvatting van de test bevindingen.
-
+Verder heb ik de website op 2 manieren getest. Ik heb een lighthouse test gedaan en een handmatige test. De resultaten hiervan zijn terug te vinden in mijn [wiki](https://github.com/Demivdm/all-human-wcag-audit/wiki)
 
 ## Licentie
 
